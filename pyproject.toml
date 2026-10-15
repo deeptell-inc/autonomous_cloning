@@ -7,6 +7,7 @@ name = "acloner"
 version = "0.1.0"
 description = "Closed-form autonomous optimal phase-covariant cloners on spin networks (reproducibility package)"
 requires-python = ">=3.10"
+license = {text = "MIT"}
 dependencies = ["numpy>=1.26", "scipy>=1.11", "sympy>=1.12", "matplotlib>=3.8"]
 
 [project.optional-dependencies]
