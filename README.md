@@ -1,7 +1,7 @@
 # acloner — autonomous optimal phase-covariant cloners on spin networks
 
 Reproducibility package for *Autonomous optimal phase-covariant cloning from fractional revival
-on XXZ spin networks* (H. Wakaura, T. Tanimae).  Everything is dense numpy on ≤ 11 qubits;
+on XXZ spin networks* (H. Wakaura).  Everything is dense numpy on ≤ 11 qubits;
 no GPU, no external data.
 
 ## Install and verify (≈ 1 min)
